@@ -12,7 +12,7 @@
 
 ### Powered by Apple Intelligence
 
-YNAB Receipts harnesses **Apple Intelligence** (iOS 18+) to process receipts entirely on your device. No cloud uploads, no external servers—just fast, accurate, and private receipt scanning.
+YNAB Receipts harnesses **Apple Intelligence** (iOS 26+) to process receipts entirely on your device. No cloud uploads, no external servers—just fast, accurate, and private receipt scanning.
 
 ✨ **AI-Powered Extraction** - Automatically detects merchant names, dates, amounts, and line items
 🔒 **100% On-Device** - All processing happens on your iPhone using Apple's Vision and Foundation Models
@@ -44,7 +44,7 @@ Apple Intelligence reads your receipts and extracts:
 - **Line Items** - Individual purchases (synced as YNAB subtransactions)
 - **Suggested Categories** - Matched to your YNAB budget
 
-All extraction happens **on-device** using iOS 18's Foundation Models—your receipts never leave your iPhone.
+All extraction happens **on-device** using iOS 26's Foundation Models—your receipts never leave your iPhone.
 
 ### 📊 Confidence Scoring
 
@@ -153,7 +153,7 @@ Choose a YNAB account and sync. The transaction appears in your budget with all 
 - **A17 Pro chip or later** (iPhone 15 Pro, iPhone 16, iPad with M-series chip)
 
 **Software:**
-- **iOS 18.0 or later**
+- **iOS 26.0 or later**
 - Active **YNAB subscription** (required for syncing)
 
 **Permissions:**
@@ -290,7 +290,7 @@ A: Go to Settings → YNAB Connection → Disconnect. This immediately removes y
 A: YNAB Receipts requires:
 - iPhone or iPad with Apple Intelligence support
 - A17 Pro chip or later (iPhone 15 Pro, iPhone 16 series, or M-series iPad)
-- iOS 18.0 or later
+- iOS 26.0 or later
 
 The app will not appear in the App Store for incompatible devices.
 
@@ -306,7 +306,7 @@ A: Receipt scanning works completely offline (on-device AI). Syncing to YNAB req
 ### Troubleshooting
 
 **Q: The app says "Apple Intelligence Required"—what does this mean?**
-A: Your device doesn't support Apple Intelligence. You need an iPhone 15 Pro or later, or an iPad with an M-series chip running iOS 18+. Check Settings → Apple Intelligence & Siri to verify availability.
+A: Your device doesn't support Apple Intelligence. You need an iPhone 15 Pro or later, or an iPad with an M-series chip running iOS 26+. Check Settings → Apple Intelligence & Siri to verify availability.
 
 **Q: OAuth fails with "invalid_client"—how do I fix this?**
 A: This usually means:
@@ -433,7 +433,7 @@ Follow us for updates and announcements!
 
 [Download on the App Store](#)
 
-**Requirements:** iPhone/iPad with Apple Intelligence (A17 Pro+), iOS 18.0+
+**Requirements:** iPhone/iPad with Apple Intelligence (A17 Pro+), iOS 26.0+
 
 ---
 
